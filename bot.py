@@ -4,4 +4,4 @@ import os
 import time
 
 class InstagramBot:
-    pass
+    def __init__(self, username, password):
